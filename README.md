@@ -1,4 +1,4 @@
-# wiesx
+# 👋Hi, im wiesu!
 
 **`Novice (STEM Student/Aspiring Software Engineer)`**
 
@@ -16,4 +16,4 @@ I'm a STEM student at Bulihan National High School. I'm currently learning CSS, 
 
 #
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wiesx&theme=default&show_icons=true&hide_border=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wiesu&theme=default&show_icons=true&hide_border=true&count_private=true)
