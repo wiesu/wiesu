@@ -1,5 +1,5 @@
 <div align="center">
-  <h1 style="color: #36BCF7;">Ralph Lawrence</h1>
+  <h1><span style="color: #36BCF7;">Ralph Lawrence</span></h1>
 </div>
 
 <p align="center">
