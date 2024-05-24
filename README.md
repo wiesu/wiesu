@@ -20,23 +20,20 @@ Hi, there!👋
 🤗Fun fact: I have a strong foundation in mathematics
 ```
 ---
-## 🧰Languages and Tools🧰
+## 🧰Languages and Tools:
 
-<img align="left" alt="Visual Studio Code" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Visual Studio Code" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Visual Studio Code" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Visual Studio Code" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Visual Studio Code" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+<img align="left" alt="Visual Studio Code" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+<img align="left" alt="Visual Studio Code" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+<img align="left" alt="Visual Studio Code" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
 <br/>
 
-## 🌐Socials🌐
+## 🌐Socials:
 
-<div align="center">
-  <a href="https://www.instagram.com/wiesu_">
-    <img width="150px" src="https://img.shields.io/badge/Instagram-%23E4405F?style=flat&logo=Instagram&logoColor=%23ffffff" />
-  </a>
-</div>
-<br>
+<p>
+  <img align="left" src="https://img.shields.io/badge/Facebook-%231877F2?style=for-the-badge&logo=Facebook&cacheSeconds=https%3A%2F%2Fwww.facebook.com%2Fwiesu.45_" />
+  <img align="left" alt="Static Badge" src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=Instagram&logoColor=%23ffffff&cacheSeconds=https%3A%2F%2Fwww.instagram.com%2Fwiesu_" />
+</p><br/><br/>
 
 
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wiesu&theme=default&show_icons=true&hide_border=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wiesu&theme=react&show_icons=true&hide_border=true&count_private=true)
