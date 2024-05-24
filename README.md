@@ -1,4 +1,4 @@
-<p align="center" color="#36BCF7FF">
+<p align="center" style="color: #36BCF7FF;">
   Ralph Lawrence
 </p>
 
