@@ -1,4 +1,6 @@
-# 👋Hi, im wiesu!
+<p>
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=&size=22&pause=1000&random=false&width=440&height=45&lines=Aspiring+Software+Engineer)](https://git.io/typing-svg)
+</p>
 
 **`Novice (STEM Student/Aspiring Software Engineer)`**
 
