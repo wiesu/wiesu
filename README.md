@@ -1,17 +1,25 @@
-<p align="left>
+<p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=50&duration=1000&pause=200&vCenter=true&repeat=false&random=false&width=435&height=80&lines=Ralph+Lawrence" alt="Typing SVG" /></a>
 </p>
 
-<p align="left">
+<p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=&size=36&pause=1000&random=false&width=440&height=60&lines=Aspiring+Software+Engineer" alt="Typing SVG" /></a>
 </p>
 
-About me
+```
+Hi, there!👋
 
-I'm a STEM student at Bulihan National High School. I'm currently learning CSS, HTML, JavaScript, and Python to improve my programming skills and to prepare for my future in college or a job as a software engineer.
+🫡I'm a self taught Programmer
 
+📚I'm currently learning CSS, HTML, JavaScript, and Python
+
+✨Favorite language: Python
+
+🏫I'm a STEM student at Bulihan Integrated National High School
+
+🤗Fun fact: I have a strong foundation in mathematics
+```
 ---
-
 ## Languages and Tools
 
 <img align="left" alt="Visual Studio Code" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" style="padding-right:10px;" />
@@ -20,6 +28,15 @@ I'm a STEM student at Bulihan National High School. I'm currently learning CSS, 
 <img align="left" alt="Visual Studio Code" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" style="padding-right:10px;" />
 <br/>
 
-#
+## Socials
+
+<div align="center">
+  <a href="https://www.instagram.com/wiesu_">
+    <img width="150px" src="https://img.shields.io/badge/Instagram-%23E4405F?style=flat&logo=Instagram&logoColor=%23ffffff" />
+  </a>
+</div>
+<br>
+
+
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wiesu&theme=default&show_icons=true&hide_border=true&count_private=true)
