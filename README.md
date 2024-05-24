@@ -1,8 +1,8 @@
-<div align="center">
-  <h1><span style="color: #36BCF7;">Ralph Lawrence</span></h1>
-</div>
+<p align="left>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=5000&pause=1000&center=true&vCenter=true&repeat=false&random=false&width=435&height=80&lines=Ralph+Lawrence" alt="Typing SVG" /></a>
+</p>
 
-<p align="center">
+<p align="left">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=&size=22&pause=1000&random=false&width=440&height=45&lines=Aspiring+Software+Engineer" alt="Typing SVG" /></a>
 </p>
 
