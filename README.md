@@ -20,7 +20,7 @@ Hi, there!👋
 🤗Fun fact: I have a strong foundation in mathematics
 ```
 ---
-## Languages and Tools
+## 🧰Languages and Tools🧰
 
 <img align="left" alt="Visual Studio Code" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Visual Studio Code" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
@@ -28,7 +28,7 @@ Hi, there!👋
 <img align="left" alt="Visual Studio Code" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" style="padding-right:10px;" />
 <br/>
 
-## Socials
+## 🌐Socials🌐
 
 <div align="center">
   <a href="https://www.instagram.com/wiesu_">
