@@ -1,6 +1,6 @@
-<h1 align="center">
-  <p style="color: #36BCF7FF;">Ralph Lawrence</p>
-</h1>
+<div align="center">
+  <h1 style="color: #36BCF7FF;">Ralph Lawrence</h1>
+</div>
 
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=&size=22&pause=1000&random=false&width=440&height=45&lines=Aspiring+Software+Engineer" alt="Typing SVG" /></a>
