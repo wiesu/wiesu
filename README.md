@@ -1,5 +1,5 @@
 <p>
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=&size=22&pause=1000&random=false&width=440&height=45&lines=Aspiring+Software+Engineer)](https://git.io/typing-svg)
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=&size=22&pause=1000&random=false&width=440&height=45&lines=Aspiring+Software+Engineer" alt="Typing SVG" /></a>
 </p>
 
 **`Novice (STEM Student/Aspiring Software Engineer)`**
