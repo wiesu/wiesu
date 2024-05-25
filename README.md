@@ -1,9 +1,9 @@
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=61DAFB&center=true&repeat=false&random=false&width=435&lines=Ralph+Lawrence" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=007BFFFF&center=true&repeat=false&random=false&width=435&lines=Ralph+Lawrence" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=27&pause=1000&color=61DAFB&random=false&width=435&lines=Aspiring+Software+Engineer+" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=27&pause=1000&color=007BFFFF&random=false&width=435&lines=Aspiring+Software+Engineer+" alt="Typing SVG" /></a>
 </p>
 
 ```
