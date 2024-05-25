@@ -9,7 +9,7 @@
 ```
 Hi, there!👋
 
-🫡I'm a self taught Programmer
+🫡I'm a self taught Developer
 
 📚I'm currently learning CSS, HTML, JavaScript, and Python
 
