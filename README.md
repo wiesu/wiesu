@@ -20,6 +20,7 @@ Hi, there!👋
 🤗Fun fact: I have a strong foundation in mathematics
 ```
 ---
+
 ## 🧰Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
@@ -33,14 +34,15 @@ Hi, there!👋
 <p>
   <img align="left" src="https://img.shields.io/badge/Facebook-%231877F2?style=for-the-badge&logo=Facebook&cacheSeconds=https%3A%2F%2Fwww.facebook.com%2Fwiesu.45_" />
   <img align="left" alt="Static Badge" src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=Instagram&logoColor=%23ffffff&cacheSeconds=https%3A%2F%2Fwww.instagram.com%2Fwiesu_" />
-</p><br/><br/>
+</p>
+<br/>
 
-## GitHub Stats
+## GitHub Stats:
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wiesu&theme=react&show_icons=true&hide_border=true&count_private=true" alt="wiesu's GitHub Stats" width="650" />
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=wiesu&theme=react&show_icons=true&hide_border=true&count_private=true" alt="wiesu's GitHub Stats" width="450" />
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wiesu&theme=react&hide_border=true" alt="wiesu's GitHub Stats" width="650" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wiesu&theme=react&hide_border=true" alt="wiesu's GitHub Stats" width="450" />
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wiesu&theme=react&show_icons=true&hide_border=true&layout=compact" alt="wiesu's GitHub Stats" width="650" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wiesu&theme=react&show_icons=true&hide_border=true&layout=compact" alt="wiesu's GitHub Stats" width="450" />
 </p>
