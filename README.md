@@ -17,7 +17,7 @@ Hi, there!👋
 
 🏫I'm a STEM student at Bulihan Integrated National High School
 
-🤗Fun fact: I have a strong foundation in mathematics
+🤗Fun fact: I have a strong foundation in Mathematics
 ```
 ---
 
