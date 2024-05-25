@@ -37,7 +37,10 @@ Hi, there!👋
 
 ## GitHub Stats
 
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wiesu&theme=react&show_icons=true&hide_border=true&count_private=true) |
-| :---: |
-| ![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=wiesu&theme=react&hide_border=true) |
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=wiesu&theme=react&show_icons=true&hide_border=true&layout=compact) |
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=wiesu&theme=react&show_icons=true&hide_border=true&count_private=true" alt="wiesu's GitHub Stats" width="650" />
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wiesu&theme=react&hide_border=true" alt="wiesu's GitHub Stats" width="650" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wiesu&theme=react&show_icons=true&hide_border=true&layout=compact" alt="wiesu's GitHub Stats" width="650" />
+</p>
