@@ -35,5 +35,9 @@ Hi, there!👋
   <img align="left" alt="Static Badge" src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=Instagram&logoColor=%23ffffff&cacheSeconds=https%3A%2F%2Fwww.instagram.com%2Fwiesu_" />
 </p><br/><br/>
 
+## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wiesu&theme=react&show_icons=true&hide_border=true&count_private=true)
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wiesu&theme=react&show_icons=true&hide_border=true&count_private=true) |
+| :---: |
+| ![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=wiesu&theme=react&hide_border=true) |
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=wiesu&theme=react&show_icons=true&hide_border=true&layout=compact) |
