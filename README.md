@@ -29,13 +29,13 @@ Hi, there!👋
 <img align="left" alt="Visual Studio Code" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
 <br/>
 
-## 🌐Socials:
+## 👥Socials:
 
 <p>
-  <img align="left" src="https://img.shields.io/badge/Facebook-%231877F2?style=for-the-badge&logo=Facebook&cacheSeconds=https%3A%2F%2Fwww.facebook.com%2Fwiesu.45_" />
-  <img align="left" alt="Static Badge" src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=Instagram&logoColor=%23ffffff&cacheSeconds=https%3A%2F%2Fwww.instagram.com%2Fwiesu_" />
+  <img align="center" src="https://img.shields.io/badge/Facebook-%231877F2?style=for-the-badge&logo=Facebook&cacheSeconds=https%3A%2F%2Fwww.facebook.com%2Fwiesu.45_" />
+  <img align="center" alt="Static Badge" src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=Instagram&logoColor=%23ffffff&cacheSeconds=https%3A%2F%2Fwww.instagram.com%2Fwiesu_" />
+  <img align="center" alt="Static Badge" src="https://img.shields.io/badge/Twitter-%23E1E8ED?style=for-the-badge&logo=Twitter">
 </p>
-<br/>
 
 ## GitHub Stats:
 
