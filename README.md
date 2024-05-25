@@ -37,7 +37,7 @@ Hi, there!👋
   <img align="center" alt="Static Badge" src="https://img.shields.io/badge/Twitter-%23E1E8ED?style=for-the-badge&logo=Twitter">
 </p>
 
-## GitHub Stats:
+## 📶GitHub Stats:
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=wiesu&theme=react&show_icons=true&hide_border=true&count_private=true" alt="wiesu's GitHub Stats" width="450" />
