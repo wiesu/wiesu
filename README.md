@@ -13,6 +13,8 @@ Hi, there!👋
 
 📚I'm currently learning CSS, HTML, JavaScript, and Python
 
+💥 I plan to learn MERN stack on summer vacation.
+
 🏫I'm a STEM student at Bulihan Integrated National High School
 
 🤗Fun fact: I have a strong foundation in Mathematics
