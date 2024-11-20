@@ -13,8 +13,6 @@ Hi, there!👋
 
 📚I'm currently learning CSS, HTML, JavaScript, and Python
 
-✨Favorite language: Python
-
 🏫I'm a STEM student at Bulihan Integrated National High School
 
 🤗Fun fact: I have a strong foundation in Mathematics
