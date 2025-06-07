@@ -9,33 +9,47 @@
 ```
 Hi, there!👋
 
-🫡I'm a self taught Developer
+💻I'm a self taught Developer
 
-📚I specialize in the MERN stack (MongoDB, Express.js, React, Node.js).
+💥I specialize in the MERN stack (MongoDB, Express.js, React, Node.js).
 
-💥I’m an incoming Computer Science student.
-
-🏫I’ve just graduated as a STEM student.
+🎓 I'm an incoming Computer Science student and a recent STEM graduate.
 
 🤗Fun fact: I have a strong foundation in Mathematics
+
+💡 Always learning. Always building.
 ```
 ---
 
-## 🧰Languages and Tools:
+## 🎨Frontend Technologies:
 
-<img align="left" alt="Visual Studio Code" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-<img align="left" alt="Visual Studio Code" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-<img align="left" alt="Visual Studio Code" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-<img align="left" alt="Visual Studio Code" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-<br/>
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
+![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=%23000000)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=2361DAFB)
 
-## 👥Socials:
+## 🚀Backend Technologies:
 
-<p>
-  <img align="center" src="https://img.shields.io/badge/Facebook-%231877F2?style=for-the-badge&logo=Facebook&cacheSeconds=https%3A%2F%2Fwww.facebook.com%2Fwiesu.45_" />
-  <img align="center" alt="Static Badge" src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=Instagram&logoColor=%23ffffff&cacheSeconds=https%3A%2F%2Fwww.instagram.com%2Fwiesu_" />
-  <img align="center" alt="Static Badge" src="https://img.shields.io/badge/Twitter-%23E1E8ED?style=for-the-badge&logo=Twitter">
-</p>
+![Node.js](https://img.shields.io/badge/node.js-43853d.svg?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/express-black?style=for-the-badge&logo=express&logoColor=white)
+
+## 📦 Databases:
+
+![MongoDB](https://img.shields.io/badge/mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+## 🧰 Tools:
+
+[![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
+![GitHub](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)
+![Git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+## 👥Socials Links:
+
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/wiesu.45_)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/wiesu_/)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/wiesu_)
+
 
 ## 📶GitHub Stats:
 
