@@ -11,11 +11,11 @@ Hi, there!👋
 
 🫡I'm a self taught Developer
 
-📚I'm currently learning CSS, HTML, JavaScript, and Python
+📚I specialize in the MERN stack (MongoDB, Express.js, React, Node.js).
 
-💥 I plan to learn MERN stack on summer vacation.
+💥I’m an incoming Computer Science student.
 
-🏫I'm a STEM student at Bulihan Integrated National High School
+🏫I’ve just graduated as a STEM student.
 
 🤗Fun fact: I have a strong foundation in Mathematics
 ```
