@@ -9,7 +9,7 @@
 ```
 Hi, there!👋
 
-💻I'm a self taught Developer
+💻I'm a self taught Progammer
 
 💥I specialize in the MERN stack (MongoDB, Express.js, React, Node.js).
 
