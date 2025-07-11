@@ -11,7 +11,7 @@ Hi, there!👋
 
 💻I'm a self taught Progammer
 
-💥I specialize in the MERN stack (MongoDB, Express.js, React, Node.js).
+💥My first programmig language is Python.
 
 🎓 I'm an incoming Computer Science student and a recent STEM graduate.
 
